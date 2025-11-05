@@ -43,10 +43,3 @@ The goal is to analyze and compare their accuracy, feature extraction efficiency
 - Transfer learning using pretrained VGG16 model.
 - Feature extraction and classification using Softmax layer.
 
-## Requirements
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```bash
-pip install -r requirements.txt
