@@ -17,7 +17,7 @@ The goal is to analyze and compare their accuracy, feature extraction efficiency
 ## Methodology
 
 ### Dataset
-- Dataset contains iris images of 20 individuals.
+- Dataset contains iris images of 40+ individuals.
 - Each folder represents a person with multiple labeled iris images.
 - The dataset is preprocessed (grayscale conversion, normalization, ROI extraction).
 
